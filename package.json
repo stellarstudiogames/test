@@ -2,9 +2,12 @@
   "name": "com.stellarstudiogames.coreutils",
   "version": "1.0.1",
   "displayName": "CoreUtils",
+  "description": "CoreUtils",
+  "unity": "6000.0",
   "author": {
     "name": "CoreUtils",
   }
 }
+
 
 
