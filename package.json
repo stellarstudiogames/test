@@ -1,6 +1,6 @@
 {
   "name": "com.tuempresa.mypackage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "My Package",
   "description": "Mi paquete privado",
   "unity": "2021.3",
@@ -10,3 +10,4 @@
     "url": "https://tu-sitio.com"
   }
 }
+
