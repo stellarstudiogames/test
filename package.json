@@ -1,0 +1,12 @@
+{
+  "name": "com.tuempresa.mypackage",
+  "version": "1.0.0",
+  "displayName": "My Package",
+  "description": "Mi paquete privado",
+  "unity": "2021.3",
+  "author": {
+    "name": "Tu Nombre",
+    "email": "tu@email.com",
+    "url": "https://tu-sitio.com"
+  }
+}
