@@ -1,13 +1,10 @@
 {
-  "name": "com.tuempresa.mypackage",
+  "name": "com.stellarstudiogames.coreutils",
   "version": "1.0.1",
-  "displayName": "My Package",
-  "description": "Mi paquete privado",
-  "unity": "2021.3",
+  "displayName": "CoreUtils",
   "author": {
-    "name": "Tu Nombre",
-    "email": "tu@email.com",
-    "url": "https://tu-sitio.com"
+    "name": "CoreUtils",
   }
 }
+
 
